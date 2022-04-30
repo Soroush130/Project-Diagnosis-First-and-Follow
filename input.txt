@@ -1,0 +1,6 @@
+S->ADBCd
+A->a|0
+B->b|A|0
+C->c|0|Ba
+D->d|0
+E->C|A|D
